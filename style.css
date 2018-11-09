@@ -1,0 +1,40 @@
+#call_now {
+    text-align: center;
+    padding: 10px;
+}
+
+#website_name {
+    padding-left: 0.4rem;
+}
+
+#cards {
+    margin-top: 4rem;
+}
+
+#history {
+    margin-top: 4rem;
+}
+
+#margin_touch_box {
+    border: 1px solid rgb(191, 191, 191);
+    border-radius: 10px;
+    padding: 30px;
+}
+
+#get_in_touch {
+    font-size: 40px;
+    text-align: center;
+}
+
+.copyright_footer {
+    margin-top: 2rem;
+    background-color: #1E282D;
+}
+
+#copyright_text {
+    color: rgb(179, 179, 179);
+}
+
+#copyright_site {
+    color: rgb(235, 235, 235);
+}
