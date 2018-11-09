@@ -1,6 +1,11 @@
 #call_now {
     text-align: center;
+    color: white;
     padding: 10px;
+}
+
+.call_container{
+    background: rgba(37, 111, 180, 0.89);
 }
 
 #website_name {
