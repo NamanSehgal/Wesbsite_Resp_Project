@@ -1,2 +1,3 @@
 # Wesbsite_Resp_Project
-Website Made in Bootstrap.
+
+Template Made in BootStrap. Free to use and Customize!
